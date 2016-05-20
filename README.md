@@ -1,2 +1,4 @@
 # hello-world
-Just my first repository
+My name is Rolando, 
+I love freecodecamp. 
+
